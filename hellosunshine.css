@@ -1,0 +1,8 @@
+
+@font-face {
+font-family: Hello Sunshine;
+src: url('https://cdn.statically.io/gh/cucumber-cat/Hello-Sunshine/main/hellosunshine-webfont.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/cucumber-cat/Hello-Sunshine/main/hellosunshine-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
